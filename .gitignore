@@ -8,3 +8,14 @@
 **/node_modules
 # misc
 **/.DS_Store
+
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+hardhat.config.js
